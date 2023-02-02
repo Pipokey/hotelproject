@@ -1,1 +1,1 @@
-# hotelproject
+# hotelproject.github.io
